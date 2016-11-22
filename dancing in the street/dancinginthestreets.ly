@@ -1,5 +1,5 @@
 \include "../tricks.ly"
-\include "../../extractMusic.ly"
+\include "../extractMusic.ly"
 
 \header {
   title = "Dancing in the Streets"

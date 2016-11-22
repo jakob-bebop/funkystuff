@@ -1,5 +1,5 @@
 \version "2.16"
-\include "../../extractMusic.ly"
+\include "../extractMusic.ly"
 global = {
   \compressFullBarRests
   \override MultiMeasureRest #'expand-limit = #2
