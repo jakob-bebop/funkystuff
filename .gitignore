@@ -1,4 +1,6 @@
-.pdf
-.sib
+*.pdf
+*.sib
+*.midi
+*.mp3
 *~
 
