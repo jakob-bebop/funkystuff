@@ -1,6 +1,6 @@
 \version "2.18"
 \include "../tricks.ly"
-\include "../../extractMusic2014.ly"
+\include "../extractMusic2014.ly"
 \header {
   title = "Uptown Funk"
   composer = \markup \center-column { "Mark Ronson, Jeff Bhasker,"  "Bruno Mars, Philip Lawrence" }
