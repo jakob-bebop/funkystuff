@@ -70,8 +70,11 @@ bridgeTo = \relative c'' {
 
 r4 r8. g16~ g8 a g a
 r8. g16~ g8 a g a r8. c16~
-c8 d c d r16 c8.  d8 r16 es16~
-es8 f
+c8 d c d r16 es8. f8 r16 e16~
+e8 fis r16 d r e r c d c a8
+
+
+
 }
 \score {
 \new Staff {
